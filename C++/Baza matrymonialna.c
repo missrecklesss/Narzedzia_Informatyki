@@ -79,7 +79,7 @@ User createUser() {
     cout << "Podaj imie: ";
     cin >> user.name;
     cout << endl;
-    cout << "Podaj Nazwisko: ";
+    cout << "Nazwisko: ";
     cin >> user.surname;
     cout << endl;
     cout << "Plec: ";
