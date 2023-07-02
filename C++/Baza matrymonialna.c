@@ -76,7 +76,7 @@ void matchUsers() {
 
 User createUser() {
     User user;
-    cout << "Imie: ";
+    cout << "Podaj imie: ";
     cin >> user.name;
     cout << endl;
     cout << "Nazwisko: ";
